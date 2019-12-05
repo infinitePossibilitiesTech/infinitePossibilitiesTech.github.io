@@ -1,0 +1,12 @@
+.topHeader {
+  position: absolute;
+  width: 100%;
+  background-color: rgb(47,63,173);
+  top: 0px;
+}
+
+.contactInfoHeader {
+  color: white;
+  font-family: Calibri;
+
+}
