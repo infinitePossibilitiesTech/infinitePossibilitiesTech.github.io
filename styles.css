@@ -1,5 +1,4 @@
 .topHeader {
-  position: absolute;
   width: 100%;
   background-color: rgb(47,63,173);
   top: 0px;
@@ -8,16 +7,15 @@
 .contactInfoHeader {
   color: white;
   font-family: Calibri;
-
+  font-weight: bold;
+    padding: 1px;
 }
 
 .bottomHeader {
   font-family: Calibri;
-  position: absolute;
   top: 60px;
   width: 40%;
-  margin-left: auto;
-  margin-right: auto;
   margin: auto;
-  
 }
+
+body { margin:0; }
